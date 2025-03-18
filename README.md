@@ -1,6 +1,6 @@
 # Hello, I’m Kassiel Moreira! 👋
 
-- 👤 I’m @kassielmoreira
+- 👤 I’m @Kassielm
 - 🎓 I’m interested in web, desktop, and mobile development
 - 🌱 I’m currently learning to deepen my skills in Full Stack development
 - 💼 I’m working at Conecsa Automação
