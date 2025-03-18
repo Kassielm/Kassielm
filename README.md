@@ -23,4 +23,4 @@ I’m eager to expand my knowledge in technology, with a focus on Full Stack dev
 I work at Conecsa Automação, where I design and develop software for various industries as a Full Stack developer.
 
 <a href="https://github.com/kassielm">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassielm&theme=shadow_red&layout=compact&langs_count=5"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kassielm&theme=dark&layout=compact&langs_count=5"/>
